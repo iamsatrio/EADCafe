@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EAD Resto</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_favorite">Favorites</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string-array name="tables_array">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+        <item>Meja 6</item>
+        <item>Meja 7</item>
+        <item>Meja 8</item>
+    </string-array>
+</resources>
